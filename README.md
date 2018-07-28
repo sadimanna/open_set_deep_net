@@ -1,5 +1,5 @@
 # open_set_deep_net
-Implementation of **"Towards Open Set Deep Networks"** using **Python** and **Tensorflow** using **VGG net** and **STL- 10** Dataset with **libMR** library
+Implementation of **"Towards Open Set Deep Networks"** using **Python** and **Tensorflow** using **VGG-13 net** and **STL- 10** Dataset with **libMR** library
 
 Implemented using Jupyter Notebook
 

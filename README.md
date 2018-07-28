@@ -15,3 +15,5 @@ Run each cell one by one.
 
 **Tailsize** used: **50**
 **Threshold** used: 0.5
+**Number of Channels** : 1
+**Alpha** value used: 10
